@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-profile-with-dropdown" transform="translate(-414.000000, -716.000000)" fill="#75699D">
+            <g id="dropdown" transform="translate(119.000000, 553.000000)">
+                <g id="check" transform="translate(295.000000, 163.000000)">
+                    <path d="M0.242307692,12.8 C0.0807692308,12.64 0,12.4 0,12.24 C0,12.08 0.0807692308,11.84 0.242307692,11.68 L1.37307692,10.56 C1.69615385,10.24 2.18076923,10.24 2.50384615,10.56 L2.58461538,10.64 L7.02692308,15.36 C7.18846154,15.52 7.43076923,15.52 7.59230769,15.36 L18.4153846,4.24 L18.4961538,4.24 L18.4961538,4.24 C18.8192308,3.92 19.3038462,3.92 19.6269231,4.24 L20.7576923,5.36 C21.0807692,5.68 21.0807692,6.16 20.7576923,6.48 L20.7576923,6.48 L7.83461538,19.76 C7.67307692,19.92 7.51153846,20 7.26923077,20 C7.02692308,20 6.86538462,19.92 6.70384615,19.76 L0.403846154,13.04 L0.242307692,12.8 L0.242307692,12.8 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
