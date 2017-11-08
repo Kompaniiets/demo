@@ -834,7 +834,7 @@ module.exports = "<form [formGroup]=\"registerForm\">\n    <div class=\"wrapper\
 // The file contents for the current environment will overwrite these during build.
 var environment = {
     production: false,
-    URL: 'http://localhost:3000/api',
+    URL: 'http://localhost:80/api',
 };
 //# sourceMappingURL=environment.js.map
 

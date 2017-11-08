@@ -3,9 +3,9 @@ const redis = require('./redis');
 
 const defaults = {
     server: {
-        port: process.env.PORT || 3000,
+        port: process.env.PORT || 80,
         host: process.env.HOST || 'localhost',
-        baseUrl: 'http://localhost:3000',
+        baseUrl: 'http://localhost:80',
     },
     jwtKey: 'token-string',
     jwtLifeTime: 1000 * 60 * 60 * 24,

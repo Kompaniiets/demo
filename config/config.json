@@ -1,9 +1,9 @@
 {
     "development": {
-        "username": "be0cd8b0f8c162",
-        "password": "6053f1e5",
-        "database": "heroku_c47fffccafb67f5",
-        "host": "us-cdbr-iron-east-05.cleardb.net",
+        "username": "root",
+        "password": "root",
+        "database": "demoDB",
+        "host": "127.0.0.1",
         "dialect": "mysql"
     },
     "test": {
